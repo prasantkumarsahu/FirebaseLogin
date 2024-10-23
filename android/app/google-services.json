@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "115883804429",
+    "project_id": "react-native-login-88182",
+    "storage_bucket": "react-native-login-88182.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115883804429:android:99527426c0c3c292291244",
+        "android_client_info": {
+          "package_name": "com.appwriteauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115883804429-e060ltn0dsr45t3vd4eshl898sl8fpam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCPL6RhxvQEcftGuoeEsqVj9ZTCEMpBKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115883804429-9n59qaq0f4qc0as9m7d83402rpitgfv2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "115883804429-gpec1gdap253cf3hivv9tjno0t122p58.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.appwriteauth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
